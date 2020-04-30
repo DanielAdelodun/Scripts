@@ -1,0 +1,2 @@
+#!/bin/sh
+vim -c "Man $2 $1" -c "only" 
